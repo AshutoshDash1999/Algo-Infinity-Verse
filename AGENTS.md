@@ -12,6 +12,24 @@ Claude Code skills extend agent capabilities for specific tasks. Install skills 
 
 ---
 
+## ✅ Installed Skills
+
+| # | Skill | Category | Use Case |
+|---|-------|----------|----------|
+| 1 | **GitHub Actions Docs** | DevOps | CI/CD workflows, GitHub Actions setup, deployment automation |
+| 2 | **Conventional Commit** | Git | Standardized commit messages, clean git history, changelog automation |
+| 3 | **WCAG Audit Patterns** | Accessibility | Find a11y issues, WCAG 2.2 compliance, audit websites |
+| 4 | **Accessibility Compliance** | Accessibility | Build accessible interfaces, screen reader support, ARIA patterns |
+| 5 | **Core Web Vitals** | Performance | Optimize LCP/CLS/INP, improve page speed, better user experience |
+| 6 | **Deploy to Vercel** | Deployment | Ship code to production, preview deployments, manage environments |
+| 7 | **Code Review Excellence** | Code Quality | Review PRs effectively, improve code quality, mentor developers |
+| 8 | **API Docs Generator** | Documentation | Create API docs, OpenAPI specs, interactive documentation |
+| 9 | **Tech Debt Prioritizer** | Code Quality | Identify technical debt, prioritize refactoring, ROI analysis |
+| 10 | **Modern JavaScript Patterns** | JavaScript | ES6+ features, async/await, clean functional code |
+| 11 | **JavaScript Pro** | JavaScript | Production-grade JS, optimize performance, Node.js development |
+
+---
+
 ## 🎯 Recommended Skills by Category
 
 ### 🏗️ **Architecture & Design**
